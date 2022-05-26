@@ -7,8 +7,5 @@
 
 
 ## Planned Features (Not yet implemented)
-* Warn of shape keys already existing
-* Option to override existing shape keys of the same name
 * Offer operator in places other than the side panel
-* Skip blank lines on name list
 * Think of a better description for what this does (better yet, make a short video)
